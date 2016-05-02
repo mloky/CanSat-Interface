@@ -1,0 +1,10 @@
+C:\Users\Mun Lok\Desktop\FYP iphone n 3D CAD\Visual Studio\AvionicsInstrumentControlDemo_Source\AvionicsInstrumentControlDemo\bin\Release\AvionicsInstrumentControlDemo.exe
+C:\Users\Mun Lok\Desktop\FYP iphone n 3D CAD\Visual Studio\AvionicsInstrumentControlDemo_Source\AvionicsInstrumentControlDemo\bin\Release\AvionicsInstrumentControlDemo.pdb
+C:\Users\Mun Lok\Desktop\FYP iphone n 3D CAD\Visual Studio\AvionicsInstrumentControlDemo_Source\AvionicsInstrumentControlDemo\bin\Release\WebCam_Capture.dll
+C:\Users\Mun Lok\Desktop\FYP iphone n 3D CAD\Visual Studio\AvionicsInstrumentControlDemo_Source\AvionicsInstrumentControlDemo\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Mun Lok\Desktop\FYP iphone n 3D CAD\Visual Studio\AvionicsInstrumentControlDemo_Source\AvionicsInstrumentControlDemo\obj\Release\AvionicsInstrumentControlDemo.AvionicsInstrumentsControls.AvionicsInstrumentsControlsRessources.resources
+C:\Users\Mun Lok\Desktop\FYP iphone n 3D CAD\Visual Studio\AvionicsInstrumentControlDemo_Source\AvionicsInstrumentControlDemo\obj\Release\AvionicsInstrumentControlDemo.DemoWinow.resources
+C:\Users\Mun Lok\Desktop\FYP iphone n 3D CAD\Visual Studio\AvionicsInstrumentControlDemo_Source\AvionicsInstrumentControlDemo\obj\Release\AvionicsInstrumentControlDemo.Properties.Resources.resources
+C:\Users\Mun Lok\Desktop\FYP iphone n 3D CAD\Visual Studio\AvionicsInstrumentControlDemo_Source\AvionicsInstrumentControlDemo\obj\Release\AvionicsInstrumentControlDemo.csproj.GenerateResource.Cache
+C:\Users\Mun Lok\Desktop\FYP iphone n 3D CAD\Visual Studio\AvionicsInstrumentControlDemo_Source\AvionicsInstrumentControlDemo\obj\Release\AvionicsInstrumentControlDemo.exe
+C:\Users\Mun Lok\Desktop\FYP iphone n 3D CAD\Visual Studio\AvionicsInstrumentControlDemo_Source\AvionicsInstrumentControlDemo\obj\Release\AvionicsInstrumentControlDemo.pdb
